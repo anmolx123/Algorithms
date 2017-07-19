@@ -23,7 +23,7 @@ int main(){
 					h = mid-1;
 			}
 			
-			p[i] = m[lo-1];			// p[k] is used to store the predecessor of last element of current lis so that we can retrieve the previous element of lis during print operation.
+			p[i] = m[lo-1];			// p[k] is used to store the index of the predecessor of last element of current lis so that we can retrieve the previous element of lis during print operation.
 			m[lo] = i;				// m[j] is used to store the index(k) of last element a[k] of current lis with length j
 			
 			if(lo>l)
