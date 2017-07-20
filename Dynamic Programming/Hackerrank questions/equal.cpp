@@ -28,7 +28,6 @@ ll int picksmall(ll int s[],ll int mi){
 	return mini;
 }
 
-
 int main(){
 	
 	ll int t,n,a[100001],mi,s[10],temp;
