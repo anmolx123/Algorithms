@@ -1,1 +1,0 @@
-All questions are solved based on their difficulty level with easy on top.
