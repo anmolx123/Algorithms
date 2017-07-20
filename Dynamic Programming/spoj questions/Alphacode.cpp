@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	char s[100001];
+	char s[100002];
 	int r,u;
 	cin >> s;
 	while(s[0]!='0'){
