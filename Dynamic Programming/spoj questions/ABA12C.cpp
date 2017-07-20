@@ -27,8 +27,7 @@ int main(){
 				}						
 			}
 		}
-		cout << dp[k] << endl;
-		
+		cout << dp[k] << endl;	
 	}
 	return 0;
 }
